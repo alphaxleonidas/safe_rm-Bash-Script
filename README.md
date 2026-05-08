@@ -30,7 +30,7 @@ if output: /bin/bash , proceed with:
 
 ```
 cd ~
-git clone https://github.com/alphaxleonidas/safe_rm-Bash-Script/
+git clone https://github.com/alphaxleonidas/safe_rm-Bash-Script.git
 cp -rv safe_rm-Bash-Script/.bashrc ~/
 rm -rv safe_rm-Bash-Script
 source ~/.bashrc
